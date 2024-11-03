@@ -3,7 +3,7 @@ Flutter-Stripe-Payment App
 -> Frontend in Flutter
 -> Backend in TypeScript
 
-**How to Set up
+**How to Set up the app for use**
 1. Add an env file in server and client side
 2. At server side, add in the root directory and add your secrets for stripe
 3. At client side, add it in the root directory and add your secrets for stripe
